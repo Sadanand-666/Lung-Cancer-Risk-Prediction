@@ -95,15 +95,3 @@ It should **not** be used as a substitute for professional medical advice or dia
 **Sadanand Bhandari**
 Artificial Intelligence, Data Science & Machine Learning Practitioner
 
-
-## ⭐ Support
-
-If you find this project useful:
-
-* ⭐ Star the repository
-* 🍴 Fork and experiment
-* 🧠 Learn and improve upon it
-
-
-* Convert it into a **research-style README**
-* Create a **professional project description for LinkedIn or portfolio**
